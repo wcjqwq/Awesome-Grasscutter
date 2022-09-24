@@ -56,4 +56,4 @@
 
 * [GenshinLauncherUI SwetyCore](https://github.com/gc-toolkit/GenshinLauncher)  高仿官方启动器的gc启动器捏。
 
-* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md)  [启动器主题（遗忘的季节~整合）]()Grasscutter官方启动器。
+* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md)  [启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins.md) Grasscutter官方启动器。
