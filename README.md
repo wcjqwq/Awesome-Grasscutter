@@ -26,8 +26,6 @@
 
 * [SwitchElement 切换主角元素](https://github.com/Penelopeep/SwitchElementTraveller)    一款切换旅行者属性的插件。
 
-* []() 
-
 * [网页工具箱](https://github.com/liujiaqi7998/GrasscuttersWebDashboard)   适用于三端
 
 * [MojoConsolePlus](https://github.com/gc-mojoconsole/gc-mojoconsole-backend)  旨在提供一个游戏内可用的带用户界面的控制台后端。
