@@ -8,7 +8,7 @@
 
 >* [Tools 前置插件](https://github.com/jie65535/gc-opencommand-plugin)
 >
->一个为第三方客户端开放GC命令执行接口的插件。
+>* 一个为第三方客户端开放GC命令执行接口的插件。
 
 * [Tools 原版指令箱](https://github.com/jie65535/GrasscutterCommandGenerator)
 >在服务端中自动执行命令。
