@@ -26,7 +26,7 @@
 * ### [雷电将军](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Raiden_Shogun_%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B/Raiden_Shogun.zip)
 ![雷电将军](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Raiden_Shogun_%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B/unknown.png)
 
-###* [温迪](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/WenDi_%E6%B8%A9%E8%BF%AA/VentiXDDDD.zip)
+* ### [温迪](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/WenDi_%E6%B8%A9%E8%BF%AA/VentiXDDDD.zip)
 ![温迪](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/WenDi_%E6%B8%A9%E8%BF%AA/unknown.png)
 
 * ### [八重神子_V1](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v1_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Yae.zip)
