@@ -36,7 +36,7 @@
 ![八重神子_V2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/unknown.png)
 
 * [烟绯](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/YanFei-%E7%83%9F%E7%BB%AF/Yanfei.zip)
-![烟绯](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/YanFei-%E7%83%9F%E7%BB%AF/yanfei.mp4)
+![烟绯](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/YanFei-%E7%83%9F%E7%BB%AF/unknown.png)
 
 * [动漫游戏主题](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/an-anime-game_%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E4%B8%BB%E9%A2%98/an-anime-game.7z)
 ![动漫游戏主题](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/an-anime-game_%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E4%B8%BB%E9%A2%98/unknown.png)
