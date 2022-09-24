@@ -52,6 +52,8 @@
 
 ### 代理软件（启动器）
 
+* [易语言_代理转向](https://cloud.rainkavik.com/s/gKBcV) 无源码地址，欢迎补充。
+
 * [Genshin代理助手](https://github.com/liujiaqi7998/genshinclienthelper) 老牌的代理软件，功能简洁非常强大。
 
 * [GenshinLauncherUI SwetyCore](https://github.com/gc-toolkit/GenshinLauncher)  高仿官方启动器的gc启动器捏。
