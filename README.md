@@ -34,6 +34,16 @@
 
 * [资源管理器](https://github.com/gc-toolkit/gc-cli)    Grasscutter 资源管理助手。
 
+* [团队合并插件](https://github.com/Penelopeep/TeamMerge)   简单的Grasscutter插件,用作 /team 命令的替代方法。
+
+* [清除掉落物](https://github.com/hamusuke0323/DroppedItemsKiller)  清楚掉落的物品。
+
+* [生成随机敌人](https://github.com/NotThorny/MobWave)  随机生成怪物进行战斗。
+
+* [设置角色等级](https://github.com/NotThorny/setLevel) 设置游戏中角色的等级。
+
+* [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)  
+
 ### 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
