@@ -70,7 +70,7 @@
 
 * ### other
 
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) A magic that allows you to soar in Tivat.
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) Let you have the magic of flying.
 
 * [GIMI-3DMigoto](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md) Tool to import custom models.
 
