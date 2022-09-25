@@ -8,6 +8,7 @@
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
 </a>
 </h1>
+
 ## 基础：
 
 * [Grasscutter项目地址](https://github.com/Grasscutters/Grasscutter)
