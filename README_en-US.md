@@ -88,5 +88,9 @@
 * [AkebiGC](https://github.com/Akebi-Group/Akebi-GC) The magic that allows you to soar inside Genshin.
 
 ## Contribute:
-Thank you to the following people for their contributions~
+
+The following rankings are not divided into front and back.
+Thank you to the following people for their contributions.
+
 * [遗忘的季节](https://github.com/Lost-Season)
+* [wcjqwq](https://github.com/wcjqwq)

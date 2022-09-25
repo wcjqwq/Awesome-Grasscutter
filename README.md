@@ -91,4 +91,7 @@
 
 ## 感谢以下成员的贡献：
 
+以下排名不分前后，非常感谢各位的贡献。
+
 * [遗忘的季节](https://github.com/Lost-Season)
+* [旅行者-空](https://github.com/wcjqwq)
