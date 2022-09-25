@@ -1,5 +1,4 @@
 # Grasscutter - Resource Statistics
-
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
@@ -7,7 +6,8 @@
 </a> | 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md">English
 </a>
-</h2>
+
+## Foundation:
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
