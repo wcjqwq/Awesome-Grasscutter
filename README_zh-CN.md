@@ -58,10 +58,22 @@
 
 * [Genshin代理助手](https://github.com/liujiaqi7998/genshinclienthelper) 老牌的代理软件，功能简洁非常强大。
 
-* [GenshinLauncherUI SwetyCore](https://github.com/gc-toolkit/GenshinLauncher)  高仿官方启动器的gc启动器捏。
+* [GenshinLauncherUI](https://github.com/gc-toolkit/GenshinLauncher)  高仿官方启动器的gc启动器捏。
 
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  适用于某游戏的启动器。
 
 >* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方启动器。
 >
->* [启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins.md)
+>* [启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
+
+* ### 其他
+
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法。
+
+* [GIMI-3DMigoto](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md) 导入自定义模型的工具。
+
+* [SpecialK](https://github.com/SpecialKO/SpecialK) 
+
+* [MOD论坛](https://gamebanana.com/games/8552)
+
+* [MOD仓库](https://github.com/zeroruka/GI-Assets)

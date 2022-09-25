@@ -1,0 +1,79 @@
+#Grasscutter - Resource Statistics
+
+### Source code:
+
+* [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
+
+### resources
+
+* [3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+
+### Plugins:
+
+* [Tools pre-plugin](https://github.com/jie65535/gc-opencommand-plugin) A plugin that opens the GC command execution interface for third-party clients.
+
+* [Tools original command box](https://github.com/jie65535/GrasscutterCommandGenerator) Automatically execute commands in the server.
+
+* [Tools Syca modified 3.0.5 instruction box](https://github.com/TeyvatL/GrasscutterTool-3.0.5) Modified by Syca, most of the ids are adapted to 3.0.5X.
+
+* [QQ executes GC command](https://github.com/jie65535/JGrasscutterCommand) A robot plugin for executing GC commands with QQ.
+
+* [MeaNotice timing announcement](https://github.com/Coooookies/Grasscutter-MeaNotice) A notice plugin.
+
+* [MeaMailPlus Mail Enhancement](https://github.com/Coooookies/Grasscutter-MeaMailPlus) You can use it to send and receive emails easily.
+
+* [Blueprint Design Plugin](https://github.com/liujiaqi7998/EasyGrasscutters) Create your own blueprint by using Node-Red software!
+
+* [SwitchElement switch protagonist element](https://github.com/Penelopeep/SwitchElementTraveller) A plug-in for switching traveler attributes.
+
+* [Web Toolbox](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) for three terminals
+
+* [MojoConsolePlus](https://github.com/gc-mojoconsole/gc-mojoconsole-backend) aims to provide an in-game console backend with a user interface.
+
+* [Mojo-Desktop](https://github.com/gc-toolkit/Mojo-Desktop) allows you to quickly execute gc's command/command generator in the Xbox Game Bar.
+
+* [Resource Manager](https://github.com/gc-toolkit/gc-cli) Grasscutter resource management assistant.
+
+* [Team Merge Plugin](https://github.com/Penelopeep/TeamMerge) Simple Grasscutter plugin to be used as an alternative to the /team command.
+
+* [Clear Dropped Items](https://github.com/hamusuke0323/DroppedItemsKiller) Clear dropped items.
+
+* [Generate random enemies](https://github.com/NotThorny/MobWave) Randomly generate monsters to fight.
+
+* [Set Character Level](https://github.com/NotThorny/setLevel) Set the character's level in the game.
+
+* [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)
+
+* [Constellation Switch](https://github.com/Penelopeep/SetConstellation_Plugin) allows you to switch constellations with a simple command.
+
+### Building Tutorial
+
+* [Windows build tutorial](https://www.rainkavik.com/archives/254/)
+
+* [Android Building Tutorial](https://github.com/ElaXan/GCAndroid)
+
+### Agent software (launcher)
+
+* [Easy Language_Agent Turning](https://cloud.rainkavik.com/s/gKBcV) No source code address, welcome to add.
+
+* [Genshin Proxy Helper](https://github.com/liujiaqi7998/genshinclienthelper) An old-fashioned proxy software with simple and powerful functions.
+
+* [GenshinLauncherUI](https://github.com/gc-toolkit/GenshinLauncher) The gc launcher of the high imitation official launcher.
+
+* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) A launcher for a game.
+
+>* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
+>
+>* [Starter Theme (Forgotten Seasons ~ Integration)](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_en-US.md)
+
+* ### other
+
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) A magic that allows you to soar in Tivat.
+
+* [GIMI-3DMigoto](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md) Tool to import custom models.
+
+* [SpecialK](https://github.com/SpecialKO/SpecialK)
+
+* [MOD Forum](https://gamebanana.com/games/8552)
+
+* [MOD repository](https://github.com/zeroruka/GI-Assets)

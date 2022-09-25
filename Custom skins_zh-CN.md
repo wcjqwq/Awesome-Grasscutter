@@ -8,17 +8,11 @@
 * ### [科莱](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Collei_%E7%A7%91%E8%8E%B1/Collei.zip)
 ![科莱](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Collei_%E7%A7%91%E8%8E%B1/unknown.png)
 
-* ### [Ei_Battlefield_ver2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Ei_Battlefield_ver2/Ei_Battlefield_ver2.zip)
-![Ei_Battlefield_ver2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Ei_Battlefield_ver2/demo2.jpg)
-
 * ### [胡桃](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/HuTao_%E8%83%A1%E6%A1%83/tao-theme.rar)
 ![胡桃](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/HuTao_%E8%83%A1%E6%A1%83/unknown.png)
 
 * ### [可莉](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/KleeTheme_%E5%8F%AF%E8%8E%89/KleeTheme.zip)
 ![可莉](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/KleeTheme_%E5%8F%AF%E8%8E%89/unknown.png)
-
-* ### [Lantics_Pink](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Lantics_Pink/Lantics_Pink.rar)
-![Lantics_Pink](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Lantics_Pink/unknown.png)
 
 * ### [荒泷一斗](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Nochi-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97/Nochi.zip)
 ![荒泷一斗](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Nochi-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97/unknown.png)
@@ -32,7 +26,8 @@
 * ### [八重神子_V1](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v1_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Yae.zip)
 ![八重神子_V1](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v1_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/unknow.png)
 
-* ### [八重神子_V2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Yae_v2.zip)   [一些背景视频和图像的小修改](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Cultivation_1.0.1_x64_en-US.msi)
+* ### [八重神子_V2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Yae_v2.zip)
+* [一些背景视频和图像的小修改](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/Cultivation_1.0.1_x64_en-US.msi)
 ![八重神子_V2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Yae_v2_%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90/unknown.png)
 
 * ### [烟绯](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/YanFei-%E7%83%9F%E7%BB%AF/Yanfei.zip)
@@ -49,3 +44,9 @@
 
 * ### [sumeru-白](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/sumeru-%E7%99%BD/sumeru-white.zip)
 ![sumeru-白](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/sumeru-%E7%99%BD/unknown.png)
+
+* ### [金苹果群岛主题](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Lantics_Pink/Lantics_Pink.rar)
+![金苹果群岛主题](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Lantics_Pink/unknown.png)
+
+* ### [Ei_Battlefield_ver2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Ei_Battlefield_ver2/Ei_Battlefield_ver2.zip)
+![Ei_Battlefield_ver2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Ei_Battlefield_ver2/demo2.jpg)
