@@ -1,15 +1,13 @@
 # Grasscutter-资源统计
 
-<center>
+<h1 align="center">
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
 </a> | 
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
 </a> | 
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
 </a>
-</center>
-
-
+</h1>
 ## 基础：
 
 * [Grasscutter项目地址](https://github.com/Grasscutters/Grasscutter)
