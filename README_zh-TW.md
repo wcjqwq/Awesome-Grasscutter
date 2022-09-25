@@ -87,7 +87,7 @@
 * melonloader原則上不再更新。
 
 ## 其他：  
-* [AkebiGC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hant.md) 一款可以讓你在提瓦特翱翔的魔法。
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hant.md) 一款可以讓你在提瓦特翱翔的魔法。
 
 ## 感謝以下成員的貢獻：
 

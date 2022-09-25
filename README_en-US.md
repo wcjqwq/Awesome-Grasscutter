@@ -85,7 +85,7 @@
 * The melonloader is no longer updated in principle.
 
 ## Other:  
-* [AkebiGC](https://github.com/Akebi-Group/Akebi-GC) The magic that allows you to soar inside Genshin.
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) The magic that allows you to soar inside Genshin.
 
 ## Contribute:
 
