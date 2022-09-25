@@ -1,7 +1,13 @@
-# Grasscutter-資源統計
+# Grasscutter-资源统计
 
-[中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
-
+<h4 align="center">
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
+</a>
+</h1>
 ## 基礎：
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)
@@ -80,7 +86,7 @@
 * melonloader原則上不再更新。
 
 ## 其他：  
-* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) 一款可以讓你在提瓦特翱翔的魔法。
+* [AkebiGC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hant.md) 一款可以讓你在提瓦特翱翔的魔法。
 
 ## 感謝以下成員的貢獻：
 

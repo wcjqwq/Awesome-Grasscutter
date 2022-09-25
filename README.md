@@ -1,6 +1,6 @@
 # Grasscutter-资源统计
 
-<h1 align="center">
+<h4 align="center">
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
 </a> | 
 <a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
@@ -86,7 +86,7 @@
 * melonloader原则上不再更新。
 
 ## 其他：  
-* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) 一款可以让你在提瓦特翱翔的魔法。
+* [AkebiGC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法。
 
 ## 感谢以下成员的贡献：
 

@@ -1,8 +1,12 @@
-#Grasscutter - Resource Statistics
-
-[中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
-
-## Foundation:
+# Grasscutter - Resource Statistics
+<h4 align="center">
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
+</a>
+</h1> Foundation:
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
@@ -80,7 +84,7 @@
 * The melonloader is no longer updated in principle.
 
 ## Other:  
-* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) The magic that allows you to soar inside Genshin.
+* [AkebiGC](https://github.com/Akebi-Group/Akebi-GC) The magic that allows you to soar inside Genshin.
 
 ## Contribute:
 Thank you to the following people for their contributions~
