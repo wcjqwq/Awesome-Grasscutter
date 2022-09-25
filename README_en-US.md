@@ -2,15 +2,12 @@
 
 [中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
 
-### Source code:
+## Foundation:
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
+* [resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
 
-### resources
-
-* [3.0](https://github.com/tamilpp25/Grasscutter_Resources)
-
-### Plugins:
+## Plugins:
 
 * [Tools pre-plugin](https://github.com/jie65535/gc-opencommand-plugin) A plugin that opens the GC command execution interface for third-party clients.
 
@@ -48,13 +45,13 @@
 
 * [Constellation Switch](https://github.com/Penelopeep/SetConstellation_Plugin) allows you to switch constellations with a simple command.
 
-### Building Tutorial
+## Building Tutorial:
 
 * [Windows build tutorial](https://www.rainkavik.com/archives/254/)
 
 * [Android Building Tutorial](https://github.com/ElaXan/GCAndroid)
 
-### Agent software (launcher)
+## Agent software (launcher):
 
 * [Easy Language_Agent Turning](https://cloud.rainkavik.com/s/gKBcV) No source code address, welcome to add.
 
@@ -64,16 +61,23 @@
 
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) A launcher for a game.
 
->* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
->
->* [Starter Theme (Forgotten Seasons ~ Integration)](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_en-US.md)
+* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
+* [Cultivation Starter skin by_遗忘的季节](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_en-US.md)
 
-* ### other
+##MOD:
+* [GIMI-3DMigoto-Project Address & Tutorial](https://github.com/SilentNightSound/GI-Model-Importer)
+* [GIMI-3DMigoto-mod forum address](https://gamebanana.com/mods/games/8552)
+* [mod address on GIMI-3DMigoto-github](https://github.com/SilentNightSound/GI-Model-Importer-Assets)
+---
+* [SpecialK-Project Address](https://github.com/SpecialKO/SpecialK)
+* [SpecialK-Chinese wiki (Tutorial)](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
+* [SpecialK-English wiki (tutorial)](https://github.com/zeroruka/GI-SKMods/wiki)
+---
+* [SpecialK-mod address](https://github.com/zeroruka/GI-SKMods)
+* [melonloader-for 2.6 (client)](https://github.com/lassedds/Melonloader-AnimeGaming)
+* [melonloader-upgrade to 3.0 (client)](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) (inject dll file)
+* [melonloader-mod address & tutorial](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
+* The melonloader is no longer updated in principle.
 
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) Let you have the magic of flying.
-
-* [GIMI-3DMigoto](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md) Tool to import custom models.
-
-* [SpecialK](https://github.com/SpecialKO/SpecialK)
-
-* [MOD Forum](https://gamebanana.com/games/8552)
+* ## other:  
+* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) A magic that allows you to soar in Tivat.

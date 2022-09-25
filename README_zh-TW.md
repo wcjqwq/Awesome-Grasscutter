@@ -2,15 +2,12 @@
 
 [中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
 
-### 原始碼：
+## 基礎：
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)
+* [resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
 
-### resources
-
-* [3.0](https://github.com/tamilpp25/Grasscutter_Resources)
-
-### 外掛： 
+## 外掛： 
 
 * [Tools 前置外掛](https://github.com/jie65535/gc-opencommand-plugin)   一個為第三方客戶端開放GC命令執行介面的外掛。
 
@@ -48,13 +45,13 @@
 
 * [命座切換](https://github.com/Penelopeep/SetConstellation_Plugin) 允許您使用簡單的命令切換星座。
 
-### 搭建教程
+## 搭建教程：
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
 
 * [Android搭建教程](https://github.com/ElaXan/GCAndroid)
 
-### 代理軟體（啟動器）
+## 代理軟體（啟動器）：
 
 * [易語言_代理轉向](https://cloud.rainkavik.com/s/gKBcV) 無原始碼地址，歡迎補充。
 
@@ -64,16 +61,23 @@
 
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  適用於某遊戲的啟動器。
 
->* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方啟動器。
->
->* [啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
+* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方啟動器。
+* [Cultivation啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
 
-* ### 其他
+## MOD：
+* [GIMI-3DMigoto-專案地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)
+* [GIMI-3DMigoto-mod論壇地址](https://gamebanana.com/mods/games/8552)
+* [GIMI-3DMigoto-github上的mod地址](https://github.com/SilentNightSound/GI-Model-Importer-Assets)  
+---
+* [SpecialK-專案地址](https://github.com/SpecialKO/SpecialK)
+* [SpecialK-中文wiki（教程）](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
+* [SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
+---
+* [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
+* [melonloader-適用於2.6（客戶端）](https://github.com/lassedds/Melonloader-AnimeGaming)
+* [melonloader-升級到3.0（客戶端）](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)（注入dll檔案）
+* [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
+* melonloader原則上不再更新。
 
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以讓你在提瓦特翱翔的魔法。
-
-* [GIMI-3DMigoto](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/CN_README.md) 匯入自定義模型的工具。
-
-* [SpecialK](https://github.com/SpecialKO/SpecialK) 
-
-* [MOD論壇](https://gamebanana.com/games/8552)
+* ## 其他：  
+* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) 一款可以讓你在提瓦特翱翔的魔法。
