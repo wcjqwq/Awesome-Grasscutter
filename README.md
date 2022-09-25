@@ -44,6 +44,8 @@
 
 * [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)  
 
+* [命座切换](https://github.com/Penelopeep/SetConstellation_Plugin) 允许您使用简单的命令切换星座。
+
 ### 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
