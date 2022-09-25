@@ -1,6 +1,14 @@
 # Grasscutter-资源统计
 
-[中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
+<center>
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
+</a> | 
+<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
+</a>
+</center>
+
 
 ## 基础：
 
