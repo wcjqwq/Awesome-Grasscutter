@@ -77,5 +77,3 @@
 * [SpecialK](https://github.com/SpecialKO/SpecialK) 
 
 * [MOD论坛](https://gamebanana.com/games/8552)
-
-* [MOD仓库](https://github.com/zeroruka/GI-Assets)
