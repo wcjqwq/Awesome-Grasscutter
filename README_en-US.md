@@ -5,7 +5,7 @@
 ## Foundation:
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
-* [resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
 
 ## Plugins:
 
@@ -68,11 +68,11 @@
 * [GIMI-3DMigoto-Project Address & Tutorial](https://github.com/SilentNightSound/GI-Model-Importer)
 * [GIMI-3DMigoto-mod forum address](https://gamebanana.com/mods/games/8552)
 * [mod address on GIMI-3DMigoto-github](https://github.com/SilentNightSound/GI-Model-Importer-Assets)
----
+ ######
 * [SpecialK-Project Address](https://github.com/SpecialKO/SpecialK)
 * [SpecialK-Chinese wiki (Tutorial)](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
 * [SpecialK-English wiki (tutorial)](https://github.com/zeroruka/GI-SKMods/wiki)
----
+ ######
 * [SpecialK-mod address](https://github.com/zeroruka/GI-SKMods)
 * [melonloader-for 2.6 (client)](https://github.com/lassedds/Melonloader-AnimeGaming)
 * [melonloader-upgrade to 3.0 (client)](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) (inject dll file)
