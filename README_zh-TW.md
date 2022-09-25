@@ -1,5 +1,7 @@
 # Grasscutter-資源統計
 
+[中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
+
 ### 原始碼：
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)

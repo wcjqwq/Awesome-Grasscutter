@@ -1,5 +1,7 @@
 #Grasscutter - Resource Statistics
 
+[中文简体](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md) | [中文繁體](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md) | [English](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md)
+
 ### Source code:
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
