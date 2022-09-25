@@ -1,12 +1,13 @@
 # Grasscutter - Resource Statistics
-<h4 align="center">
-<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README.md">中文简体
+
+<h2 align="center">
+<a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
-<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_zhTW.md">中文繁體
+<a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
 </a> | 
-<a href="https://github.com/YuerQAQ/GrasscutterPlugin/blob/main/README_enUS.md">English
+<a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md">English
 </a>
-</h1> Foundation:
+</h2>
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
