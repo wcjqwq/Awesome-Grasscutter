@@ -72,12 +72,16 @@
 * [SpecialK-Project Address](https://github.com/SpecialKO/SpecialK)
 * [SpecialK-Chinese wiki (Tutorial)](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
 * [SpecialK-English wiki (tutorial)](https://github.com/zeroruka/GI-SKMods/wiki)
- ######
 * [SpecialK-mod address](https://github.com/zeroruka/GI-SKMods)
+ ######
 * [melonloader-for 2.6 (client)](https://github.com/lassedds/Melonloader-AnimeGaming)
 * [melonloader-upgrade to 3.0 (client)](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) (inject dll file)
 * [melonloader-mod address & tutorial](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * The melonloader is no longer updated in principle.
 
-* ## other:  
-* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) A magic that allows you to soar in Tivat.
+## Other:  
+* [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) The magic that allows you to soar inside Genshin.
+
+## Contribute:
+Thank you to the following people for their contributions~
+* [遗忘的季节](https://github.com/Lost-Season)

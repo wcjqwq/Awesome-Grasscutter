@@ -72,12 +72,16 @@
 * [SpecialK-專案地址](https://github.com/SpecialKO/SpecialK)
 * [SpecialK-中文wiki（教程）](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
 * [SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
- ######
 * [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
+ ######
 * [melonloader-適用於2.6（客戶端）](https://github.com/lassedds/Melonloader-AnimeGaming)
 * [melonloader-升級到3.0（客戶端）](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)（注入dll檔案）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原則上不再更新。
 
-* ## 其他：  
+## 其他：  
 * [AkebiGC](https://github.com/AkebiGroup/AkebiGC/blob/master/README_zhHans.md) 一款可以讓你在提瓦特翱翔的魔法。
+
+## 感謝以下成員的貢獻：
+
+* [遗忘的季节](https://github.com/Lost-Season)
