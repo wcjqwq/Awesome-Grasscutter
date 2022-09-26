@@ -22,11 +22,15 @@
 
 * [QQ executes GC command](https://github.com/jie65535/JGrasscutterCommand) A robot plugin for executing GC commands with QQ.
 
+* [Add a robot to the Q group](https://github.com/mamoe/mirai-console) QQ robot.
+
 * [MeaNotice timing announcement](https://github.com/Coooookies/Grasscutter-MeaNotice) A notice plugin.
 
 * [MeaMailPlus Mail Enhancement](https://github.com/Coooookies/Grasscutter-MeaMailPlus) You can use it to send and receive emails easily.
 
 * [Blueprint Design Plugin](https://github.com/liujiaqi7998/EasyGrasscutters) Create your own blueprint by using Node-Red software!
+
+* [node-RED node](https://github.com/liujiaqi7998/node-red-easy-grasscutters) Use with blueprint design plugin.
 
 * [SwitchElement switch protagonist element](https://github.com/Penelopeep/SwitchElementTraveller) A plug-in for switching traveler attributes.
 

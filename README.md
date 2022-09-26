@@ -24,7 +24,7 @@
 
 * [QQ运行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ运行GC命令的机器人插件.
   
-* >[在Q群中添加机器人](https://github.com/mamoe/mirai-console)
+* [在Q群中添加机器人](https://github.com/mamoe/mirai-console)QQ机器人。
 
 * [MeaNotice 定时公告](https://github.com/Coooookies/Grasscutter-MeaNotice)     一款公告插件。
 
@@ -32,7 +32,7 @@
 
 * [蓝图设计插件](https://github.com/liujiaqi7998/EasyGrasscutters)  通过使用Node-Red软件，创作你自己的蓝图！
 
-* >[node-RED节点](https://github.com/liujiaqi7998/node-red-easy-grasscutters) 
+* [node-RED节点](https://github.com/liujiaqi7998/node-red-easy-grasscutters) 配合蓝图设计插件使用。
 
 * [SwitchElement 切换主角元素](https://github.com/Penelopeep/SwitchElementTraveller)    一款切换旅行者属性的插件。
 

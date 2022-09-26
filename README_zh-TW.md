@@ -24,11 +24,15 @@
 
 * [QQ執行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ執行GC命令的機器人外掛.
 
+* [在Q群中新增機器人](https://github.com/mamoe/mirai-console)QQ機器人。
+
 * [MeaNotice 定時公告](https://github.com/Coooookies/Grasscutter-MeaNotice)     一款公告外掛。
 
 * [MeaMailPlus 郵件增強](https://github.com/Coooookies/Grasscutter-MeaMailPlus)  你可以用它來輕鬆的收發郵件。
 
 * [藍圖設計外掛](https://github.com/liujiaqi7998/EasyGrasscutters)  透過使用Node-Red軟體，創作你自己的藍圖！
+
+* [node-RED節點](https://github.com/liujiaqi7998/node-red-easy-grasscutters) 配合藍圖設計外掛使用。
 
 * [SwitchElement 切換主角元素](https://github.com/Penelopeep/SwitchElementTraveller)    一款切換旅行者屬性的外掛。
 
