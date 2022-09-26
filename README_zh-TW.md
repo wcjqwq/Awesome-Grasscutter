@@ -56,6 +56,8 @@
 
 * [命座切換](https://github.com/Penelopeep/SetConstellation_Plugin) 允許您使用簡單的命令切換星座。
 
+* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周圍的物品是什麼原因，也許可以幫助除錯東西。
+
 ## 搭建教程：
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)

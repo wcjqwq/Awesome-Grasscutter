@@ -54,6 +54,8 @@
 
 * [Constellation Switch](https://github.com/Penelopeep/SetConstellation_Plugin) allows you to switch constellations with a simple command.
 
+* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) omg reveal items around u for idk what reason, maybe can help debug stuff idk yay seggs real.
+
 ## Building Tutorial:
 
 * [Windows build tutorial](https://www.rainkavik.com/archives/254/)

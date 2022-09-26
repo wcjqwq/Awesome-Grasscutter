@@ -56,7 +56,7 @@
 
 * [命座切换](https://github.com/Penelopeep/SetConstellation_Plugin) 允许您使用简单的命令切换星座。
 
-* [RevealSurroundings Plugin](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin)
+* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周围的物品是什么原因，也许可以帮助调试东西。
 
 ## 搭建教程：
 
