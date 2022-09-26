@@ -23,12 +23,16 @@
 * [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.0.5)  由 Syca 修改，id大部分适配3.0.5X。
 
 * [QQ运行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ运行GC命令的机器人插件.
+  
+* >[在Q群中添加机器人](https://github.com/mamoe/mirai-console)
 
 * [MeaNotice 定时公告](https://github.com/Coooookies/Grasscutter-MeaNotice)     一款公告插件。
 
 * [MeaMailPlus 邮件增强](https://github.com/Coooookies/Grasscutter-MeaMailPlus)  你可以用它来轻松的收发邮件。
 
 * [蓝图设计插件](https://github.com/liujiaqi7998/EasyGrasscutters)  通过使用Node-Red软件，创作你自己的蓝图！
+
+* >[node-RED节点](https://github.com/liujiaqi7998/node-red-easy-grasscutters) 
 
 * [SwitchElement 切换主角元素](https://github.com/Penelopeep/SwitchElementTraveller)    一款切换旅行者属性的插件。
 
@@ -51,6 +55,8 @@
 * [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)  
 
 * [命座切换](https://github.com/Penelopeep/SetConstellation_Plugin) 允许您使用简单的命令切换星座。
+
+* [RevealSurroundings Plugin](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin)
 
 ## 搭建教程：
 
