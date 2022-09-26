@@ -13,6 +13,7 @@
 
 * [Grasscutter项目地址](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library)各版本客户端下载链接
 
 ## 插件： 
 
@@ -75,7 +76,7 @@
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  适用于某游戏的启动器，可自行修补patch。
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方启动器。
-* [Cultivation启动器主题（遗忘的季节整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
+* [Cultivation启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
 
 ## MOD：
 * [GIMI-3DMigoto-项目地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)
@@ -87,8 +88,8 @@
 * [SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
 * [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
  ######
-* [melonloader-适用于2.6（客户端）](https://github.com/lassedds/Melonloader-AnimeGaming)
-* [melonloader-升级到3.0（客户端）](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
+* [melonloader-教程&2.6下载](https://github.com/lassedds/Melonloader-AnimeGaming)
+* [melonloader-升级更高版本](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原则上不再更新。
 
@@ -99,5 +100,5 @@
 
 以下排名不分前后，非常感谢各位的贡献。
 
-* [遗忘的季节](https://github.com/Lost-Season)
+* [遗忘的季节~](https://github.com/Lost-Season)
 * [旅行者-空](https://github.com/wcjqwq)
