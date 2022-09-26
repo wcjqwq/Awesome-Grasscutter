@@ -88,7 +88,7 @@
 * [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
  ######
 * [melonloader-适用于2.6（客户端）](https://github.com/lassedds/Melonloader-AnimeGaming)
-* [melonloader-升级到3.0（客户端）](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)（注入dll文件）
+* [melonloader-升级到3.0（客户端）](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原则上不再更新。
 
