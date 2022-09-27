@@ -101,6 +101,8 @@
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法(目前已经无了)。
 
+* [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
+
 ## 感谢以下成员做出的贡献
 
 以下排名不分前后，非常感谢各位的贡献。

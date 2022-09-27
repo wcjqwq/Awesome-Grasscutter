@@ -101,6 +101,8 @@
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) A magic that allows you to soar in Tivat (now gone) .
 
+* [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI GUI Automatically complete hdiff differential package update.
+
 ## Contributors
 
 * In no particular order, thank you for your contributions.
