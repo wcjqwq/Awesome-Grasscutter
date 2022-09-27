@@ -1,4 +1,6 @@
-# Grasscutter-资源统计
+# <h1 align="center">Grasscutter-资源统计
+</a>
+</h1>
 
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
@@ -80,7 +82,7 @@
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  适用于某游戏的启动器，可自行修补patch。
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方启动器。
-* [Cultivation启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
+* [Cultivation启动器主题（遗忘的季节~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
 ## MOD：
 * [GIMI-3DMigoto-项目地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)

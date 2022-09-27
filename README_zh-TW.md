@@ -75,7 +75,7 @@
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  適用於某遊戲的啟動器。
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方啟動器。
-* [Cultivation啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-TW.md)
+* [Cultivation啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
 ## MOD：
 * [GIMI-3DMigoto-專案地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)

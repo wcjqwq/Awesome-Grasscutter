@@ -73,7 +73,7 @@
 * [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) A launcher for a game.
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
-* [Cultivation Starter skin by_遗忘的季节](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_en-US.md)
+* [Cultivation Starter skin by_遗忘的季节](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
 ##MOD:
 * [GIMI-3DMigoto-Project Address & Tutorial](https://github.com/SilentNightSound/GI-Model-Importer)
