@@ -1,4 +1,4 @@
-# Grasscutter-资源统计
+<h1 align="center">Grasscutter-資源統計</h1>
 
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
@@ -9,12 +9,13 @@
 </a>
 </h2>
 
-## 基礎：
+<h2 align="center">基礎</h2>
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客戶端下載連結。
 
-## 外掛： 
+<h2 align="center">外掛</h2>
 
 * [Tools 前置外掛](https://github.com/jie65535/gc-opencommand-plugin)   一個為第三方客戶端開放GC命令執行介面的外掛。
 
@@ -22,8 +23,12 @@
 
 * [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.0.5)  由 Syca 修改，id大部分適配3.0.5X。
 
-* [QQ執行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ執行GC命令的機器人外掛.
+* [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
 
+* [grasscutter-plugin](https://github.com/jianxingxuejian/grasscutter-plugin/tree/v1.2.2)
+
+* [QQ執行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ執行GC命令的機器人外掛.
+  
 * [在Q群中新增機器人](https://github.com/mamoe/mirai-console)QQ機器人。
 
 * [MeaNotice 定時公告](https://github.com/Coooookies/Grasscutter-MeaNotice)     一款公告外掛。
@@ -58,13 +63,13 @@
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周圍的物品是什麼原因，也許可以幫助除錯東西。
 
-## 搭建教程：
+<h2 align="center">搭建教程</h2>
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
 
 * [Android搭建教程](https://github.com/ElaXan/GCAndroid)
 
-## 代理軟體（啟動器）：
+<h2 align="center">代理軟體</h2>
 
 * [易語言_代理轉向](https://cloud.rainkavik.com/s/gKBcV) 無原始碼地址，歡迎補充。
 
@@ -72,12 +77,13 @@
 
 * [GenshinLauncherUI](https://github.com/gc-toolkit/GenshinLauncher)  高仿官方啟動器的gc啟動器捏。
 
-* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  適用於某遊戲的啟動器。
+* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)  適用於某遊戲的啟動器，可自行修補patch。
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方啟動器。
 * [Cultivation啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
-## MOD：
+<h2 align="center">MOD</h2>
+
 * [GIMI-3DMigoto-專案地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)
 * [GIMI-3DMigoto-mod論壇地址](https://gamebanana.com/mods/games/8552)
 * [GIMI-3DMigoto-github上的mod地址](https://github.com/SilentNightSound/GI-Model-Importer-Assets)  
@@ -87,17 +93,17 @@
 * [SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
 * [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
  ######
-* [melonloader-適用於2.6（客戶端）](https://github.com/lassedds/Melonloader-AnimeGaming)
-* [melonloader-升級到3.0（客戶端）](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)（注入dll檔案）
+* [melonloader-下載及教程](https://github.com/Lost-Season/ChecksumBypass)（注入dll檔案）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原則上不再更新。
 
-## 其他：  
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hant.md) 一款可以讓你在提瓦特翱翔的魔法。
+<h2 align="center">其他</h2>
 
-## 感謝以下成員的貢獻：
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以讓你在提瓦特翱翔的魔法(目前已經無了)。
+
+<h2 align="center">感謝以下成員做出的貢獻</h2>
 
 以下排名不分前後，非常感謝各位的貢獻。
 
-* [遗忘的季节](https://github.com/Lost-Season)
+* [遺忘的季節~](https://github.com/Lost-Season)
 * [旅行者-空](https://github.com/wcjqwq)

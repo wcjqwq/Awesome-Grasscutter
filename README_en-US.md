@@ -1,4 +1,5 @@
-# Grasscutter - Resource Statistics
+<h1 align="center">Grasscutter-Resource Statistics</h1>
+
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
@@ -6,23 +7,29 @@
 </a> | 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md">English
 </a>
+</h2>
 
-## Foundation:
+<h2 align="center">Base</h2>
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library)  client download link for each version.
 
-## Plugins:
+<h2 align="center">Plugin</h2>
 
-* [Tools pre-plugin](https://github.com/jie65535/gc-opencommand-plugin) A plugin that opens the GC command execution interface for third-party clients.
+* [Tools pre-plugin](https://github.com/jie65535/gc-opencommand-plugin) A plugin that opens the GC command running interface for third-party clients.
 
-* [Tools original command box](https://github.com/jie65535/GrasscutterCommandGenerator) Automatically execute commands in the server.
+* [Tools original command box](https://github.com/jie65535/GrasscutterCommandGenerator) Automatically run commands in the server.
 
 * [Tools Syca modified 3.0.5 instruction box](https://github.com/TeyvatL/GrasscutterTool-3.0.5) Modified by Syca, most of the ids are adapted to 3.0.5X.
 
-* [QQ executes GC command](https://github.com/jie65535/JGrasscutterCommand) A robot plugin for executing GC commands with QQ.
+* [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
 
-* [Add a robot to the Q group](https://github.com/mamoe/mirai-console) QQ robot.
+* [grasscutter-plugin](https://github.com/jianxingxuejian/grasscutter-plugin/tree/v1.2.2)
+
+* [QQ run GC command](https://github.com/jie65535/JGrasscutterCommand) A robot plugin for running GC command with QQ.
+  
+* [Add robot to Q group](https://github.com/mamoe/mirai-console)QQ robot.
 
 * [MeaNotice timing announcement](https://github.com/Coooookies/Grasscutter-MeaNotice) A notice plugin.
 
@@ -38,7 +45,7 @@
 
 * [MojoConsolePlus](https://github.com/gc-mojoconsole/gc-mojoconsole-backend) aims to provide an in-game console backend with a user interface.
 
-* [Mojo-Desktop](https://github.com/gc-toolkit/Mojo-Desktop) allows you to quickly execute gc's command/command generator in the Xbox Game Bar.
+* [Mojo-Desktop](https://github.com/gc-toolkit/Mojo-Desktop) allows you to quickly run gc's command/command generator in the Xbox Game Bar.
 
 * [Resource Manager](https://github.com/gc-toolkit/gc-cli) Grasscutter resource management assistant.
 
@@ -54,15 +61,15 @@
 
 * [Constellation Switch](https://github.com/Penelopeep/SetConstellation_Plugin) allows you to switch constellations with a simple command.
 
-* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) omg reveal items around u for idk what reason, maybe can help debug stuff idk yay seggs real.
+* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) Reveal what causes items around you, maybe help debug stuff.
 
-## Building Tutorial:
+<h2 align="center">Building Tutorial</h2>
 
 * [Windows build tutorial](https://www.rainkavik.com/archives/254/)
 
 * [Android Building Tutorial](https://github.com/ElaXan/GCAndroid)
 
-## Agent software (launcher):
+<h2 align="center">Agent software</h2>
 
 * [Easy Language_Agent Turning](https://cloud.rainkavik.com/s/gKBcV) No source code address, welcome to add.
 
@@ -70,12 +77,13 @@
 
 * [GenshinLauncherUI](https://github.com/gc-toolkit/GenshinLauncher) The gc launcher of the high imitation official launcher.
 
-* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) A launcher for a game.
+* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) A launcher for a game, you can patch the patch yourself.
 
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
-* [Cultivation Starter skin by_遗忘的季节](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
+* [Cultivation Launcher Theme (Forgotten Season ~ Integration)](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
-##MOD:
+<h2 align="center">MOD</h2>
+
 * [GIMI-3DMigoto-Project Address & Tutorial](https://github.com/SilentNightSound/GI-Model-Importer)
 * [GIMI-3DMigoto-mod forum address](https://gamebanana.com/mods/games/8552)
 * [mod address on GIMI-3DMigoto-github](https://github.com/SilentNightSound/GI-Model-Importer-Assets)
@@ -85,18 +93,17 @@
 * [SpecialK-English wiki (tutorial)](https://github.com/zeroruka/GI-SKMods/wiki)
 * [SpecialK-mod address](https://github.com/zeroruka/GI-SKMods)
  ######
-* [melonloader-for 2.6 (client)](https://github.com/lassedds/Melonloader-AnimeGaming)
-* [melonloader-upgrade to 3.0 (client)](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact) (inject dll file)
+* [melonloader-download and tutorial](https://github.com/Lost-Season/ChecksumBypass) (inject dll file)
 * [melonloader-mod address & tutorial](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * The melonloader is no longer updated in principle.
 
-## Other:  
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) The magic that allows you to soar inside Genshin.
+<h2 align="center">Other</h2>
 
-## Contribute:
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) A magic that allows you to soar in Tivat (now gone) .
 
-The following rankings are not divided into front and back.
-Thank you to the following people for their contributions.
+<h2 align="center">Contributors</h2>
 
-* [遗忘的季节](https://github.com/Lost-Season)
-* [wcjqwq](https://github.com/wcjqwq)
+* In no particular order, thank you for your contributions.
+
+* [遗忘的季节~](https://github.com/Lost-Season)
+* [旅行者-空](https://github.com/wcjqwq)
