@@ -23,6 +23,10 @@
 
 * [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.0.5)  由 Syca 修改，id大部分适配3.0.5X。
 
+* [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
+
+* [grasscutter-plugin](https://github.com/jianxingxuejian/grasscutter-plugin/tree/v1.2.2)
+
 * [QQ运行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ运行GC命令的机器人插件.
   
 * [在Q群中添加机器人](https://github.com/mamoe/mirai-console)QQ机器人。
@@ -88,8 +92,7 @@
 * [SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
 * [SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
  ######
-* [melonloader-教程&2.6下载](https://github.com/lassedds/Melonloader-AnimeGaming)
-* [melonloader-升级更高版本](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
+* [melonloader-下载及教程](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原则上不再更新。
 
