@@ -9,13 +9,13 @@
 </a>
 </h2>
 
-<h2 align="center">Base</h2>
+## Base
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library)  client download link for each version.
 
-<h2 align="center">Plugin</h2>
+## Plugin
 
 * [Tools pre-plugin](https://github.com/jie65535/gc-opencommand-plugin) A plugin that opens the GC command running interface for third-party clients.
 
@@ -63,13 +63,13 @@
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) Reveal what causes items around you, maybe help debug stuff.
 
-<h2 align="center">Building Tutorial</h2>
+## Building Tutorial
 
 * [Windows build tutorial](https://www.rainkavik.com/archives/254/)
 
 * [Android Building Tutorial](https://github.com/ElaXan/GCAndroid)
 
-<h2 align="center">Agent software</h2>
+## Agent software
 
 * [Easy Language_Agent Turning](https://cloud.rainkavik.com/s/gKBcV) No source code address, welcome to add.
 
@@ -82,7 +82,7 @@
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter official launcher.
 * [Cultivation Launcher Theme (Forgotten Season ~ Integration)](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
-<h2 align="center">MOD</h2>
+## MOD
 
 * [GIMI-3DMigoto-Project Address & Tutorial](https://github.com/SilentNightSound/GI-Model-Importer)
 * [GIMI-3DMigoto-mod forum address](https://gamebanana.com/mods/games/8552)
@@ -97,11 +97,11 @@
 * [melonloader-mod address & tutorial](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * The melonloader is no longer updated in principle.
 
-<h2 align="center">Other</h2>
+## Other
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) A magic that allows you to soar in Tivat (now gone) .
 
-<h2 align="center">Contributors</h2>
+## Contributors
 
 * In no particular order, thank you for your contributions.
 

@@ -9,13 +9,13 @@
 </a>
 </h2>
 
-<h2 align="center">基礎</h2>
+## 基礎
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客戶端下載連結。
 
-<h2 align="center">外掛</h2>
+## 外掛
 
 * [Tools 前置外掛](https://github.com/jie65535/gc-opencommand-plugin)   一個為第三方客戶端開放GC命令執行介面的外掛。
 
@@ -63,13 +63,13 @@
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周圍的物品是什麼原因，也許可以幫助除錯東西。
 
-<h2 align="center">搭建教程</h2>
+## 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
 
 * [Android搭建教程](https://github.com/ElaXan/GCAndroid)
 
-<h2 align="center">代理軟體</h2>
+## 代理軟體
 
 * [易語言_代理轉向](https://cloud.rainkavik.com/s/gKBcV) 無原始碼地址，歡迎補充。
 
@@ -82,7 +82,7 @@
 * [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md) Grasscutter官方啟動器。
 * [Cultivation啟動器主題（遺忘的季節~整合）](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md)
 
-<h2 align="center">MOD</h2>
+## MOD
 
 * [GIMI-3DMigoto-專案地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)
 * [GIMI-3DMigoto-mod論壇地址](https://gamebanana.com/mods/games/8552)
@@ -97,11 +97,11 @@
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * melonloader原則上不再更新。
 
-<h2 align="center">其他</h2>
+## 其他
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以讓你在提瓦特翱翔的魔法(目前已經無了)。
 
-<h2 align="center">感謝以下成員做出的貢獻</h2>
+## 感謝以下成員做出的貢獻
 
 以下排名不分前後，非常感謝各位的貢獻。
 
