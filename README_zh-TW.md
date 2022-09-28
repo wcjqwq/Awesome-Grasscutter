@@ -12,7 +12,7 @@
 ## 基礎
 
 * [Grasscutter專案地址](https://github.com/Grasscutters/Grasscutter)
-* [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客戶端下載連結。
 
 ## 外掛

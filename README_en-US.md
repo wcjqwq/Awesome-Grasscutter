@@ -12,7 +12,7 @@
 ## Base
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
-* [Resources_3.0](https://github.com/tamilpp25/Grasscutter_Resources)
+* [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library)  client download link for each version.
 
 ## Plugin
