@@ -21,6 +21,8 @@
 
 * [Tools 原版指令箱](https://github.com/jie65535/GrasscutterCommandGenerator)  在服务端中自动运行命令。
 
+* [Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera)  扫描账号内的数据，并导出为`GOOD`格式，配合原版Toolsv1.5.5往后版本使用
+
 * [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.0.5)  由 Syca 修改，id大部分适配3.0.5X。
 
 * [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
