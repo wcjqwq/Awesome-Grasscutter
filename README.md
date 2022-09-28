@@ -95,6 +95,7 @@
  ######
 * [melonloader-下载及教程](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
+* [melonloader-扩展用法](https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/)
 * melonloader原则上不再更新。
 
 ## 其他
