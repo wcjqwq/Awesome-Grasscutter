@@ -106,9 +106,10 @@
 
 * [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
 
-## 感谢以下成员做出的贡献
+## 感谢以下成员做出的贡献 | Credits
 
 以下排名不分前后，非常感谢各位的贡献。
 
+* [Kawaa](https://github.com/Kawaa-qwq)
 * [遗忘的季节~](https://github.com/Lost-Season)
 * [旅行者-空](https://github.com/wcjqwq)
