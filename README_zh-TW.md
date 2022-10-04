@@ -21,7 +21,7 @@
 
 * [Tools 原版指令箱](https://github.com/jie65535/GrasscutterCommandGenerator)  在服務端中自動執行命令。
 
-* [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.0.5)  由 Syca 修改，id大部分適配3.0.5X。
+* [Tools Syca修改的3.0.5指令箱](https://github.com/TeyvatL/GrasscutterTool-3.1.5)  由 Syca 修改，id大部分適配3.1.5X。
 
 * [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
 
