@@ -13,6 +13,7 @@
 
 * [Grasscutter project address](https://github.com/Grasscutters/Grasscutter)
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
+* [Resources_3.1.5x](github.com/snoobi-seggs/nahida_seggs)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library)  client download link for each version.
 
 ## Plugin
@@ -21,7 +22,7 @@
 
 * [Tools original command box](https://github.com/jie65535/GrasscutterCommandGenerator) Automatically run commands in the server.
 
-* [Tools Syca modified 3.0.5 instruction box](https://github.com/TeyvatL/GrasscutterTool-3.1.5) Modified by Syca, most of the ids are adapted to 3.1.5X.
+* [Tools Syca modified 3.1.5x instruction box](https://github.com/TeyvatL/GrasscutterTool-3.1.5) Modified by Syca, most of the ids are adapted to 3.1.5X.
 
 * [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
 
