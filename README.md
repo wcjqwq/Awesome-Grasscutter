@@ -66,6 +66,8 @@
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周围的物品是什么原因，也许可以帮助调试东西。
 
+* [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色
+
 ## 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
