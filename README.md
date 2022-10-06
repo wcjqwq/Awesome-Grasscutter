@@ -22,17 +22,23 @@
 
 * [Tools 原版指令箱](https://github.com/jie65535/GrasscutterCommandGenerator)  在服务端中自动运行命令。
 
-* [Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera)  扫描账号内的数据，并导出为`GOOD`格式，配合原版Toolsv1.5.5往后版本使用
+* [Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera)  扫描账号内的数据，并导出为`GOOD`格式，配合原版Toolsv1.5.5往后版本使用。
+
+* [GCEnkaCopy](https://github.com/exzork/GCEnkaCopy) 一键获取和装备来自官服公开的数据，可能需要在[这个网站](https://enka.network/)上有数据。
 
 * [Tools Syca修改的3.1.5x指令箱](https://github.com/TeyvatL/GrasscutterTool-3.1.5)  由 Syca 修改，id大部分适配3.1.5X。
 
-* [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools/tree/v1.3.0)
+* [grasscutter-tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools)
 
-* [grasscutter-plugin](https://github.com/jianxingxuejian/grasscutter-plugin/tree/v1.2.2)
+* [Tools by jiangxingxuejian前置插件](https://github.com/jianxingxuejian/grasscutter-plugin)
 
 * [QQ运行GC命令](https://github.com/jie65535/JGrasscutterCommand)   用QQ运行GC命令的机器人插件.
   
-* [在Q群中添加机器人](https://github.com/mamoe/mirai-console)QQ机器人。
+* [在Q群中添加机器人](https://github.com/mamoe/mirai-console)  QQ机器人。
+
+* [GCAuth](https://github.com/exzork/GCAuth) 割草机（grasscutter)的密码验证系统，可能对于开服的人有用。
+
+* [GCAuth-OAuth](https://github.com/Xtao-Labs/GCAuth-OAuth) 建立在oauth和GCAuth的游戏内登录系统，您可以进入[这里](https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme)使得您的登录界面像Twitter
 
 * [MeaNotice 定时公告](https://github.com/Coooookies/Grasscutter-MeaNotice)     一款公告插件。
 
@@ -44,13 +50,13 @@
 
 * [SwitchElement 切换主角元素](https://github.com/Penelopeep/SwitchElementTraveller)    一款切换旅行者属性的插件。
 
-* [网页工具箱](https://github.com/liujiaqi7998/GrasscuttersWebDashboard)   适用于三端
+* [网页工具箱](https://github.com/liujiaqi7998/GrasscuttersWebDashboard)   适用于三端。
 
 * [MojoConsolePlus](https://github.com/gc-mojoconsole/gc-mojoconsole-backend)  旨在提供一个游戏内可用的带用户接口的控制台后端。
 
 * [Mojo-Desktop](https://github.com/gc-toolkit/Mojo-Desktop)   让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器。
 
-* [资源管理器](https://github.com/gc-toolkit/gc-cli)    Grasscutter 资源管理助手。
+* [资源管理器](https://github.com/gc-toolkit/gc-cli)    Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上`./`）
 
 * [团队合并插件](https://github.com/Penelopeep/TeamMerge)   简单的Grasscutter插件,用作 /team 命令的替代方法。
 
@@ -66,7 +72,7 @@
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周围的物品是什么原因，也许可以帮助调试东西。
 
-* [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色
+* [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色。
 
 ## 搭建教程
 
