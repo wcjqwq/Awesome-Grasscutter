@@ -68,7 +68,7 @@
 
 * [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)  
 
-* [命座切换](https://github.com/Penelopeep/SetConstellation_Plugin) 允许您使用简单的命令切换星座。
+* [命座切换](https://github.com/Penelopeep/ToggleConstellation) 允许您使用简单的命令切换星座。
 
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周围的物品是什么原因，也许可以帮助调试东西。
 
@@ -107,11 +107,15 @@
 * [melonloader-下载及教程](https://github.com/Lost-Season/ChecksumBypass)（注入dll文件）
 * [melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
 * [melonloader-扩展用法](https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/)
+* [melonloader-leak3.1](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)
 * melonloader原则上不再更新。
-
+ ######
+* [forking-this-before-DMCA](https://github.com/Lost-Season/forking-this-before-DMCA)
 ## 其他
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法(目前已经无了)。
+
+* [发布版Akebi](https://github.com/Taiga74164/Akebi-GC) 
 
 * [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
 
