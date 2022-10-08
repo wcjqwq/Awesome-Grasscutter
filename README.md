@@ -109,7 +109,8 @@
 * [melonloader-扩展用法](https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/)
 * [melonloader-leak3.1](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)
 * melonloader原则上不再更新。
-
+ ######
+* [forking-this-before-DMCA](https://github.com/Lost-Season/forking-this-before-DMCA)
 ## 其他
 
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法(目前已经无了)。
