@@ -117,6 +117,8 @@
 
 * [发布版Akebi](https://github.com/Taiga74164/Akebi-GC) 
 
+* [All 传送文件](https://github.com/Lost-Season/Genshin_Impact_Teleport) 配合akebi的teleport功能使用
+
 * [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
 
 ## 感谢以下成员做出的贡献 | Credits
