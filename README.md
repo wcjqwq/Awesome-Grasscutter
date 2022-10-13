@@ -15,6 +15,7 @@
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [Resources_3.1.5x](https://github.com/snoobi-seggs/nahida_seggs)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客户端下载链接。
+* [一键脚本部署](https://github.com/Lost-Season/GC-onekey)
 
 ## 插件
 
@@ -73,6 +74,8 @@
 * [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin) 揭示你周围的物品是什么原因，也许可以帮助调试东西。
 
 * [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色。
+
+* [FuckPaimonPlugin](https://github.com/snoobi-seggs/FuckPaimonPlugin) 前面的区域爷现在就要探索
 
 ## 搭建教程
 
