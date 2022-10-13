@@ -15,7 +15,7 @@
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [Resources_3.1.5x](https://github.com/snoobi-seggs/nahida_seggs)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客户端下载链接。
-* [一键脚本部署](https://github.com/Lost-Season/GC-onekey)
+* [一键脚本部署](https://github.com/cool-chill/GC-onekey)
 
 ## 插件
 
@@ -75,7 +75,9 @@
 
 * [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色。
 
-* [FuckPaimonPlugin](https://github.com/snoobi-seggs/FuckPaimonPlugin) 前面的区域爷现在就要探索
+* [FuckPaimonPlugin](https://github.com/snoobi-seggs/FuckPaimonPlugin) 前面的区域爷现在就要探索。
+
+* [id-look](https://github.com/ffauzan/id-look) 游戏中查找物品ID，可以转换语言。
 
 ## 搭建教程
 
@@ -120,7 +122,7 @@
 
 * [发布版Akebi](https://github.com/Taiga74164/Akebi-GC) 
 
-* [All 传送文件](https://github.com/Lost-Season/Genshin_Impact_Teleport) 配合akebi的teleport功能使用
+* [All 传送文件](https://github.com/Lost-Season/Genshin_Impact_Teleport) 配合akebi的teleport功能使用。
 
 * [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
 
