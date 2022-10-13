@@ -74,6 +74,8 @@
 
 * [Nuzlocke](https://github.com/Penelopeep/Nuzlocke) 使用该插件来清除已有的角色。
 
+* [FuckPaimonPlugin](https://github.com/snoobi-seggs/FuckPaimonPlugin) 前面的区域爷现在就要探索
+
 ## 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
