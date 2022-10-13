@@ -1,6 +1,6 @@
 <h1 align="center">Grasscutter-资源统计</h1>
 <!-- <td  style={{width:200,textAlign:’right’}}> -->
-<h2 style="line-height: 200px">
+<h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
