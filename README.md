@@ -8,9 +8,10 @@
 </a>
 </h2>
 
+* 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
 ## 基础
 
-* [Grasscutter项目地址](https://github.com/Grasscutters/Grasscutter)
+* [Grasscutter](https://github.com/Grasscutters/Grasscutter) 官方GC项目地址
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [Resources_3.1.5x](https://github.com/snoobi-seggs/nahida_seggs)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客户端下载链接。
