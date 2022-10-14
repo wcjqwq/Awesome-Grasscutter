@@ -80,6 +80,8 @@
 
 * [id-look](https://github.com/ffauzan/id-look) 游戏中查找物品ID，可以转换语言。
 
+* [AttackModifier](https://github.com/NotThorny/AttackModifier) 给雷神加了特效 
+
 ## 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
