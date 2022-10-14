@@ -1,5 +1,4 @@
 <h1 align="center">Grasscutter-资源统计</h1>
-
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
@@ -79,7 +78,9 @@
 
 * [id-look](https://github.com/ffauzan/id-look) 游戏中查找物品ID，可以转换语言。
 
-* [AttackModifier](https://github.com/NotThorny/AttackModifier) 给雷神加了特效 
+* [AttackModifier](https://github.com/NotThorny/AttackModifier) 释放技能时生成其他实体。
+
+* [AttackModifier-RK个人版](https://github.com/RainKavik-Group/AttackModifier) 释放技能时生成其他实体，添加更多角色。
 
 ## 搭建教程
 
@@ -126,7 +127,7 @@
 
 * [All 传送文件](https://github.com/Lost-Season/Genshin_Impact_Teleport) 配合akebi的teleport功能使用。
 
-* [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新。
+* [genshin-hdiff-patch-gui](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui) GUI图形界面 自动完成hdiff差分包更新，（适用于合并语音包跟升级包，解决覆盖没有语音的烦恼）。
 
 ## 感谢以下成员做出的贡献 | Credits
 
@@ -134,4 +135,4 @@
 
 * [Kawaa](https://github.com/Kawaa-qwq)
 * [遗忘的季节~](https://github.com/Lost-Season)
-* [IKUN](https://github.com/wcjqwq)
+* [IKUN（小黑子开庭别哭）](https://github.com/wcjqwq)
