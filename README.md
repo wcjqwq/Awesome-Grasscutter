@@ -1,8 +1,4 @@
 <h1 align="center">Grasscutter-资源统计</h1>
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
 <h2 style="align='center';">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
