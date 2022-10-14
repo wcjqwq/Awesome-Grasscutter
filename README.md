@@ -1,13 +1,13 @@
 <style>
-    .h2
+    h2
     {
-text-Align:center;
+        text-Align:center;
         }
 </style>
 
 <h1 align="center">Grasscutter-资源统计</h1>
 <!-- <td  style={{width:200,textAlign:’right’}}> -->
-<h2 class=".h2">
+<h2 class="h2">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
 </a> | 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
@@ -126,7 +126,7 @@ text-Align:center;
 * [forking-this-before-DMCA](https://github.com/Lost-Season/forking-this-before-DMCA)
 ## 其他
 
-* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法(目前已经无了)。
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md) 一款可以让你在提瓦特翱翔的魔法(已经DMCA了)。
 
 * [发布版Akebi](https://github.com/Taiga74164/Akebi-GC) 
 
