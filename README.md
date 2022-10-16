@@ -15,7 +15,7 @@
 * [Resources_3.1](https://github.com/tamilpp25/Grasscutter_Resources)
 * [Resources_3.1.5x](https://github.com/snoobi-seggs/nahida_seggs)
 * [GI-Download-Library](https://github.com/kyou-nase/GI-Download-Library) 各版本客户端下载链接。
-* [一键脚本部署](https://github.com/cool-chill/GC-onekey)
+* [一键脚本部署](https://github.com/cool-chill/GC-onekey) 写给Linux用的 <details> <summary>不要展开</summary> ~话说既然用上Linux的还要一键脚本？~  </details>
 
 ## 插件
 
