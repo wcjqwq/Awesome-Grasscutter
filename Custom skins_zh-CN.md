@@ -55,9 +55,13 @@
 ![Ei_Battlefield_ver2](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Ei_Battlefield_ver2/demo2.jpg)
 
 * ## [sob-😭](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/sob-%F0%9F%98%AD/sob.zip)
-
-  ![sob-😭](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/sob-%F0%9F%98%AD/unknown.png)
+![sob-😭](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/sob-%F0%9F%98%AD/unknown.png)
 
 * ## [From_within_the_Chasm-暗黑洞穴](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/From_within_the_Chasm-%E6%9A%97%E9%BB%91%E6%B4%9E%E7%A9%B4/From_within_the_Chasm_-_Emmets_edit.rar)
-
 ![From_within_the_Chasm-暗黑洞穴](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/From_within_the_Chasm-%E6%9A%97%E9%BB%91%E6%B4%9E%E7%A9%B4/unknown.png)
+
+*  ## [Kokomi-心海](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Kokomi-%E5%BF%83%E6%B5%B7/Kokomi.zip)
+![Kokomi-心海](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/Kokomi-%E5%BF%83%E6%B5%B7/unknown.png)
+
+* ## [HuTao-胡桃（黑）](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/HuTao-%E8%83%A1%E6%A1%83%EF%BC%88%E9%BB%91%EF%BC%89/HuTao_Theme.rar)
+![HuTao-胡桃（黑）](https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/Custom%E5%90%AF%E5%8A%A8%E5%99%A8%E4%B8%BB%E9%A2%98/HuTao-%E8%83%A1%E6%A1%83%EF%BC%88%E9%BB%91%EF%BC%89/unknown.png) 
