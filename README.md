@@ -84,6 +84,7 @@
 
 * [Give Artifact Plugin](https://github.com/snoobi-seggs/GiveArtifactPlugin)  
 
+* [CharacterBuilder](https://github.com/Penelopeep/CharacterBuilder) 
 ## 搭建教程
 
 * [Windows搭建教程](https://www.rainkavik.com/archives/254/)
