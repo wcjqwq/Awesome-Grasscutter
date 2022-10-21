@@ -1,9 +1,9 @@
 <h1 align="center">Grasscutter-资源统计</h1>
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
-<| 
+
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
-<| 
+
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md">English
 </a>
 </h2>
@@ -38,111 +38,91 @@
 <table>
     <tr>
         <td><a href="https://github.com/jie65535/gc-opencommand-plugin">Tools 前置插件</a></td>
-        <td> &nbsp; 一个为第三方客户端开放GC命令运行接口的插件。 </td>
-        <td></td>
+        <td>一个为第三方客户端开放GC命令运行接口的插件。</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jie65535/GrasscutterCommandGenerator">Tools 原版指令箱</a></td>
-        <td> &nbsp;在服务端中自动运行命令。 </td>
-        <td></td>
+        <td>在服务端中自动运行命令。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Andrewthe13th/Inventory_Kamera">Inventory_Kamera</a></td>
-        <td> &nbsp;扫描账号内的数据，并导出为<MARK>GOOD</MARK>格式，配合原版Toolsv1.5.5往后版本使用。 </td>
-        <td></td>
+        <td>扫描账号内的数据，并导出为<MARK>GOOD</MARK>格式，配合原版Toolsv1.5.5往后版本使用。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/exzork/GCEnkaCopy">GCEnkaCopy</a></td>
         <td> 一键获取和装备来自官服公开的数据，可能需要在<a href="https://enka.network">EnKa</a>上有数据。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/TeyvatL/GrasscutterTool-3.1.5">Tools Syca修改的3.1.5x指令箱</a></td>
-        <td> &nbsp;由<MARK>Syca</MARK>修改，id大部分适配3.1.5X。 </td>
-        <td></td>
+        <td>由<MARK>Syca</MARK>修改，id大部分适配3.1.5X。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/jianxingxuejian/grasscutter-plugin">Tools by jiangxingxuejian</a></td>
         <td> 由<MARK>jiangxingxuejian</MARK>魔改的指令箱的前置插件。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/jianxingxuejian/grasscutter-tools">Tools by jiangxingxuejian</a></td>
         <td> 由<MARK>jiangxingxuejian</MARK>魔改的指令箱。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/jie65535/JGrasscutterCommand">QQ运行GC命令</a></td>
-        <td> &nbsp; 用QQ运行GC命令的机器人插件. </td>
-        <td></td>
+        <td>用QQ运行GC命令的机器人插件. </td>
     </tr>
     <tr>
         <td><a href="https://github.com/mamoe/mirai-console">在Q群中添加机器人</a></td>
-        <td> &nbsp;QQ机器人。 </td>
-        <td></td>
+        <td>QQ机器人。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/NotThorny/AttackModifier">AttackModifier</a></td>
         <td> 释放技能时生成其他实体，雷神变周本大招插件。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
         <td> 前面的区域爷现在就要探索。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement 切换主角元素</a></td>
-        <td> &nbsp; &nbsp;一款切换旅行者属性的插件。 </td>
-        <td></td>
+        <td>&nbsp;一款切换旅行者属性的插件。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/RainKavik-Group/SwitchElementTraveller">SwitchElement 切换主角元素汉化版</a></td>
         <td> 由个人添加汉化指令的项目。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Penelopeep/ToggleConstellation">旅行者命座切换</a></td>
         <td> 允许您使用简单的命令切换星座。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Coooookies/Grasscutter-MeaNotice">MeaNotice 定时公告</a></td>
-        <td> &nbsp; &nbsp; 一款公告插件。 </td>
-        <td></td>
+        <td>&nbsp; 一款公告插件。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Coooookies/Grasscutter-MeaMailPlus">MeaMailPlus 邮件增强</a></td>
-        <td> &nbsp;你可以用它来轻松的收发邮件。 </td>
-        <td></td>
+        <td>你可以用它来轻松的收发邮件。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/liujiaqi7998/EasyGrasscutters">蓝图设计插件</a></td>
-        <td> &nbsp;通过使用Node-Red软件，创作你自己的蓝图！ </td>
-        <td></td>
+        <td>通过使用Node-Red软件，创作你自己的蓝图！ </td>
     </tr>
     <tr>
         <td><a href="https://github.com/liujiaqi7998/node-red-easy-grasscutters">node-RED节点</a></td>
         <td> 配合蓝图设计插件使用。 </td>
-        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/gc-toolkit/gc-cli">资源管理器</a></td>
-        <td> &nbsp; &nbsp;Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上<MARK>./</MARK>） </td>
-        <td></td>
+        <td>&nbsp;Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上<MARK>./</MARK>） </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Penelopeep/TeamMerge">团队合并插件</a></td>
-        <td> &nbsp; 简单的Grasscutter插件,用作 /team 命令的替代方法。 </td>
-        <td></td>
+        <td>简单的Grasscutter插件,用作 /team 命令的替代方法。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/hamusuke0323/DroppedItemsKiller">清除掉落物</a></td>
-        <td> &nbsp;清楚掉落的物品。 </td>
+        <td>清楚掉落的物品。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/NotThorny/MobWave">生成随机敌人</a></td>
-        <td> &nbsp;随机生成怪物进行战斗。 </td>
+        <td>随机生成怪物进行战斗。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/NotThorny/setLevel">设置角色等级</a></td>
@@ -162,7 +142,7 @@
     </tr>
         <tr>
         <td><a href="https://github.com/snoobi-seggs/GiveArtifactPlugin">Give Artifact Plugin</a></td>
-        <td> &nbsp;给神器插件 </td>
+        <td>给神器插件 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Penelopeep/CharacterBuilder">CharacterBuilder</a></td>
@@ -170,15 +150,15 @@
     </tr>
     <tr>
         <td><a href="https://github.com/liujiaqi7998/GrasscuttersWebDashboard">网页工具箱</a></td>
-        <td> &nbsp; 适用于三端(目前大部分指令不适配组最新版本。 </td>
+        <td>适用于三端(目前大部分指令不适配组最新版本。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/gc-mojoconsole/gc-mojoconsole-backend">MojoConsolePlus</a></td>
-        <td> &nbsp;旨在提供一个游戏内可用的带用户接口的控制台后端(目前大部分指令不适配组最新版本。。 </td>
+        <td>旨在提供一个游戏内可用的带用户接口的控制台后端(目前大部分指令不适配组最新版本。。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/gc-toolkit/Mojo-Desktop">Mojo-Desktop</a></td>
-        <td> &nbsp; 让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器(目前大部分指令不适配组最新版本。。 </td>
+        <td>让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器(目前大部分指令不适配组最新版本。。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/exzork/GCAuth">GCAuth</a></td>
@@ -189,6 +169,7 @@
         <td> 建立在oauth和GCAuth的游戏内登录系统，您可以使用<a href="https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme">Twitter风格的GCAuth-OAuth页面</td>
     </tr>
 </table>
+
 ## 搭建教程
 <table>
     <tr>
@@ -198,6 +179,7 @@
         <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
     </tr>
 </table>
+
 ## 代理软件
 <table>
     <tr>
@@ -219,6 +201,7 @@
         <td><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题（遗忘的季节~整合）</a></td>
     </tr>
 </table>
+
 ## MOD
 <table>
     <tr>
@@ -261,21 +244,27 @@
         <td><a href="https://github.com/Lost-Season/forking-this-before-DMCA">forking-this-before-DMCA</a></td>
     </tr>
 </table>
+
 ## 其他
 <table>
     <tr>
         <td><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
+        <td> 一款可以让你在提瓦特翱翔的魔法(已经DMCA了</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Taiga74164/Akebi-GC">发布版Akebi</a></td>
+        <td>编译后的发布版背起行囊。</tb>
     </tr>
     <tr>
         <td><a href="https://github.com/Lost-Season/Genshin_Impact_Teleport">All 传送文件</a></td>
+        <td> 配合akebi的teleport功能使用。</tb>
     </tr>
     <tr>
-        <td><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">genshin-hdiff-patch-gui</a></td>
+        <td><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">hdiff-patch-gui</a></td>
+        <td> GUI图形界面 自动完成hdiff差分包更新，（适用于合并语音包跟升级包，消灭直接覆盖没有语音的烦恼）。</tb>
     </tr>
 </table>
+
 ## 感谢以下成员做出的贡献 | Credits
 
 以下排名不分前后，非常感谢各位的贡献。
