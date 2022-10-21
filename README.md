@@ -176,8 +176,6 @@
         <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
         <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
     </tr>
-    </tr>
-    <tr>
 </table>
 
 ## 代理软件
@@ -248,7 +246,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">hdiff-patch-gui</a></td>
-        <td> GUI图形界面 自动完成hdiff差分包更新，（适用于合并语音包跟升级包，消灭直接覆盖没有语音的烦恼）。</tb>
+        <td> GUI图形界面 自动完成hdiff差分包更新(适用于合并语音包跟升级包，消灭直接覆盖没有语音的烦恼)。</tb>
     </tr>
 </table>
 
