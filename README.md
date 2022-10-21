@@ -34,6 +34,14 @@
     </tr>
 </table>
 
+## 搭建教程
+<table>
+    <tr>
+        <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
+        <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
+    </tr>
+</table>
+
 ## 插件
 <table>
     <tr>
@@ -167,14 +175,6 @@
     <tr>
         <td><a href="https://github.com/Xtao-Labs/GCAuth-OAuth">GCAuth-OAuth</a></td>
         <td> 建立在oauth和GCAuth的游戏内登录系统，您可以使用<a href="https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme">Twitter风格的GCAuth-OAuth页面</td>
-    </tr>
-</table>
-
-## 搭建教程
-<table>
-    <tr>
-        <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
-        <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
     </tr>
 </table>
 
