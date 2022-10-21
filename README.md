@@ -1,14 +1,14 @@
 <h1 align="center">Grasscutter-资源统计</h1>
 <h2 align="center">
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
-
+| 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
-
+| 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_en-US.md">English
 </a>
 </h2>
 
-* 本项目只是做资源整合，点个免费的<MARK>star</MARK>再拿走吧！，您的支持是我们更新的动力~！
+* 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
 ## 基础
 
 <table>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Andrewthe13th/Inventory_Kamera">Inventory_Kamera</a></td>
-        <td>扫描账号内的数据，并导出为<MARK>GOOD</MARK>格式，配合原版Toolsv1.5.5往后版本使用。 </td>
+        <td>扫描账号内的数据，并导出为`GOOD`格式，配合原版Toolsv1.5.5往后版本使用。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/exzork/GCEnkaCopy">GCEnkaCopy</a></td>
@@ -54,15 +54,15 @@
     </tr>
     <tr>
         <td><a href="https://github.com/TeyvatL/GrasscutterTool-3.1.5">Tools Syca修改的3.1.5x指令箱</a></td>
-        <td>由<MARK>Syca</MARK>修改，id大部分适配3.1.5X。 </td>
+        <td>由`Syca`修改，id大部分适配3.1.5X。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/jianxingxuejian/grasscutter-plugin">Tools by jiangxingxuejian</a></td>
-        <td> 由<MARK>jiangxingxuejian</MARK>魔改的指令箱的前置插件。 </td>
+        <td> 由`jiangxingxuejian`魔改的指令箱的前置插件。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/jianxingxuejian/grasscutter-tools">Tools by jiangxingxuejian</a></td>
-        <td> 由<MARK>jiangxingxuejian</MARK>魔改的指令箱。 </td>
+        <td> 由`jiangxingxuejian`魔改的指令箱。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/jie65535/JGrasscutterCommand">QQ运行GC命令</a></td>
@@ -110,7 +110,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/gc-toolkit/gc-cli">资源管理器</a></td>
-        <td>&nbsp;Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上<MARK>./</MARK>） </td>
+        <td>&nbsp;Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上`./`） </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Penelopeep/TeamMerge">团队合并插件</a></td>
@@ -202,7 +202,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
-        <td>启动器主题由<MARK>遗忘的季节~整合</MARK></td>
+        <td>启动器主题由`遗忘的季节~整合`</td>
     </tr>
 </table>
 
