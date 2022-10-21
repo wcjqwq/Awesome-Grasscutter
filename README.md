@@ -174,74 +174,61 @@
 <table>
     <tr>
         <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
     </tr>
+    </tr>
+    <tr>
 </table>
 
 ## 代理软件
 <table>
     <tr>
         <td><a href="https://cloud.rainkavik.com/s/gKBcV">易语言_代理转向</a></td>
+         <td>无源码地址，欢迎补充。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/liujiaqi7998/genshinclienthelper">Genshin代理助手</a></td>
+         <td>老牌的代理软件，功能简洁非常强大。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/gc-toolkit/GenshinLauncher">GenshinLauncherUI</a></td>
+           <td>高仿官方启动器的gc启动器捏。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Bambi5/Collei_Launcher">Collei_Launcher</a></td>
+          <td>适用于某游戏的启动器，可自行修补patch。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md">Cultivation</a></td>
+          <td>GC官方的启动器。</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题（遗忘的季节~整合）</a></td>
+        <td><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
+        <td>启动器主题由<MARK>遗忘的季节~整合</MARK></td>
     </tr>
 </table>
 
 ## MOD
 <table>
     <tr>
-        <td><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&amp;教程</a></td>
+        <td><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&教程</td>
+        <td><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</td>
+        <td><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程 </td>
     </tr>
     <tr>
-        <td><a href="https://gamebanana.com/mods/games/8552">GIMI-3DMigoto-mod论坛地址</a></td>
+        <td><a href="https://gamebanana.com/mods/games/8552">GIMI-3DMigoto-mod论坛地址</td>
+        <td><a href="https://github.com/zeroruka/GI-SKMods-wiki/wiki">SpecialK-中文wiki（教程）</td>
+        <td><a href="https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts">melonloader-mod地址&教程 </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SilentNightSound/GI-Model-Importer-Assets">GIMI-3DMigoto-github上的mod地址</a></td>
+        <td><a href="https://github.com/SilentNightSound/GI-Model-Importer-Assets">GIMI-3DMigoto-github上的mod地址</td>
+        <td><a href="https://github.com/zeroruka/GI-SKMods/wiki">SpecialK-英文wiki（教程）</td>
+        <td><a href="https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/">melonloader-扩展用法 </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/zeroruka/GI-SKMods-wiki/wiki">SpecialK-中文wiki（教程）</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/zeroruka/GI-SKMods/wiki">SpecialK-英文wiki（教程）</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/zeroruka/GI-SKMods">SpecialK-mod地址</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts">melonloader-mod地址&amp;教程</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/">melonloader-扩展用法</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1</a></td>
-    </tr>
-    <tr>
-        <td>melonloader原则上不再更新。</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Lost-Season/forking-this-before-DMCA">forking-this-before-DMCA</a></td>
+        <td><a href="https://github.com/Yuer-QAQ">是凑数的~</td>
+        <td><a href="https://github.com/zeroruka/GI-SKMods">SpecialK-mod地址</td>
+        <td><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1 </td>
     </tr>
 </table>
 
