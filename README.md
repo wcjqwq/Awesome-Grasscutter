@@ -10,7 +10,7 @@
 
 * 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
 
-## 基础
+<h2 align="center">基础</h2>
 
 <table>
     <tr>
@@ -39,7 +39,7 @@
     </tr>
 </table>
 
-## 搭建教程
+<h2 align="center">搭建教程</h2>
 <table>
     <tr>
         <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
@@ -47,7 +47,7 @@
     </tr>
 </table>
 
-## 插件
+<h2 align="center">插件</h2>
 <table>
     <tr>
        <td><h3 align="center">项目地址</h3></td>
@@ -171,11 +171,11 @@
     </tr>
     <tr>
         <td><a href="https://github.com/gc-mojoconsole/gc-mojoconsole-backend">MojoConsolePlus</a></td>
-        <td>旨在提供一个游戏内可用的带用户接口的控制台后端(目前大部分指令不适配组最新版本。。 </td>
+        <td>旨在提供一个游戏内可用的带用户接口的控制台后端(目前大部分指令不适配组最新版本。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/gc-toolkit/Mojo-Desktop">Mojo-Desktop</a></td>
-        <td>让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器(目前大部分指令不适配组最新版本。。 </td>
+        <td>让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器(目前大部分指令不适配组最新版本。 </td>
     </tr>
     <tr>
         <td><a href="https://github.com/exzork/GCAuth">GCAuth</a></td>
@@ -187,7 +187,7 @@
     </tr>
 </table>
 
-## 代理软件
+<h2 align="center">代理软件</h2>
 <table>
     <tr>
        <td><h3 align="center">项目地址</h3></td>
@@ -223,7 +223,7 @@
     </tr>
 </table>
 
-## MOD
+<h2 align="center">MOD</h2>
 <table>
     <tr>
        <td><h3 align="center">3DMigoto</h3></td>
@@ -252,7 +252,7 @@
     </tr>
 </table>
 
-## 其他
+<h2 align="center">其他</h2>
 <table>
     <tr>
        <td><h3 align="center">项目地址</h3></td>
@@ -277,9 +277,9 @@
     </tr>
 </table>
 
-## 感谢以下成员做出的贡献 | Credits
+<h2 align="center">感谢以下成员做出的贡献 | Credits</h2>
 
-以下排名不分前后，非常感谢各位的贡献。
+* 以下排名不分前后，非常感谢各位的贡献。
 
 * [Kawaa](https://github.com/Kawaa-qwq)
 * [遗忘的季节~](https://github.com/Lost-Season)
