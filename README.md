@@ -204,6 +204,10 @@
         <td><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
         <td>启动器主题由`遗忘的季节~整合`</td>
     </tr>
+        <tr>
+        <td><a href="https://github.com/akbaryahya/YuukiPS-Launcher">YuukiPS</a></td>
+          <td>GYuukiPS的个人启动器。</td>
+    </tr>
 </table>
 
 ## MOD
