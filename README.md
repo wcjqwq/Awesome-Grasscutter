@@ -12,7 +12,8 @@
 
 <table>
     <tr>
-    <h2 align="center"><colspan="4">基础<h2>  
+    <h2 align="center"><colspan="4">基础<h2>
+    </tr>
     <tr>
        <td><h3 align="center">基础项目</h3></td>
        <td><h3 align="center">简介</h3></td>
