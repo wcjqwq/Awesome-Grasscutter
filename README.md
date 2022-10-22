@@ -10,13 +10,14 @@
 
 * 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
 
-<h2 align="center">基础</h2>
-
 <table>
     <tr>
-       <td><h3 align="center">项目地址</h3></td>
+    <td colspan="4"><h2 align="center">基础<h2></td>
+    </tr>
+    <tr>
+       <td><h3 align="center">基础项目</h3></td>
        <td><h3 align="center">简介</h3></td>
-        <td><h3 align="center">项目地址</h3></td>
+        <td><h3 align="center">教程</h3></td>
        <td><h3 align="center">简介</h3></td>
     </tr>
     <tr>
@@ -38,8 +39,8 @@
         <td> 写给Linux用的  </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
-        <td> 集成客户端的下载链接</td>
+        <td colspan="2"><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
+        <td colspan="2"> 集成客户端的下载链接</td>
         <td>
     </tr>
 </table>
