@@ -9,9 +9,14 @@
 </h2>
 
 * 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
+
 ## 基础
 
 <table>
+    <tr>
+       <td><h3 align="center">项目地址</h3></td>
+       <td><h3 align="center">简介</h3></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/Grasscutters/Grasscutter">Grasscutter</a></td>
         <td> 官方GC项目地址 </td>
@@ -44,6 +49,10 @@
 
 ## 插件
 <table>
+    <tr>
+       <td><h3 align="center">项目地址</h3></td>
+       <td><h3 align="center">简介</h3></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/jie65535/gc-opencommand-plugin">Tools 前置插件</a></td>
         <td>一个为第三方客户端开放GC命令运行接口的插件。</td>
@@ -181,6 +190,10 @@
 ## 代理软件
 <table>
     <tr>
+       <td><h3 align="center">项目地址</h3></td>
+       <td><h3 align="center">简介</h3></td>
+    </tr>
+    <tr>
         <td><a href="https://cloud.rainkavik.com/s/gKBcV">易语言_代理转向</a></td>
          <td>无源码地址，欢迎补充。 </td>
     </tr>
@@ -213,6 +226,11 @@
 ## MOD
 <table>
     <tr>
+       <td><h3 align="center">3DMigoto</h3></td>
+       <td><h3 align="center">SpecialK</h3></td>
+       <td><h3 align="center">melonloader</h3></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&教程</td>
         <td><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</td>
         <td><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程 </td>
@@ -236,6 +254,11 @@
 
 ## 其他
 <table>
+    <tr>
+       <td><h3 align="center">项目地址</h3></td>
+       <td><h3 align="center">简介</h3></td>
+    </tr>
+    </tr>
     <tr>
         <td><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
         <td> 一款可以让你在提瓦特翱翔的魔法(已经DMCA了</td>
