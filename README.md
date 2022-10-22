@@ -16,34 +16,31 @@
     <tr>
        <td><h3 align="center">项目地址</h3></td>
        <td><h3 align="center">简介</h3></td>
+        <td><h3 align="center">项目地址</h3></td>
+       <td><h3 align="center">简介</h3></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Grasscutters/Grasscutter">Grasscutter</a></td>
         <td> 官方GC项目地址 </td>
-    </tr>
+        <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
+        <td>rainkavik提供的教程。</td>
+        </tr>
     <tr>
         <td><a href="https://github.com/tamilpp25/Grasscutter_Resources">Resources_3.1</a></td>
         <td>resources-3.1正式服</td>
+        <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
+        <td>在Android上搭建GC服务端</td>
     </tr>
     <tr>
         <td><a href="https://github.com/snoobi-seggs/nahida_seggs">Resources_3.1.5x</a></td>
         <td>resources-3.1.5测试服</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
-        <td> 各版本客户端下载链接。 </td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/cool-chill/GC-onekey">一键脚本部署</a></td>
         <td> 写给Linux用的  </td>
     </tr>
-</table>
-
-<h2 align="center">搭建教程</h2>
-<table>
     <tr>
-        <td><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
-        <td><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
+        <td><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
+        <td> 集成客户端的下载链接</td>
+        <td>
     </tr>
 </table>
 
