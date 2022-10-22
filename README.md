@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-    <td colspan="4"><h2 align="center">基础<h2></td>    
+    <h2 align="center"><colspan="4">基础<h2>  
     <tr>
        <td><h3 align="center">基础项目</h3></td>
        <td><h3 align="center">简介</h3></td>
@@ -40,8 +40,6 @@
     <tr>
         <td colspan="2"><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
         <td colspan="2"> 集成客户端的下载链接</td>
-        <td>
-    </tr>
 </table>
 
 <h2 align="center">插件</h2>
