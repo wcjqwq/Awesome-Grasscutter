@@ -22,7 +22,7 @@
 * [Grasscutter-Android搭建教程](https://github.com/ElaXan/GCAndroid)
 * [Grasscutter-Linux一键部署](https://github.com/cool-chill/GC-onekey)
 * [Grasscutter-DockerGS](https://github.com/akbaryahya/DockerGS)
-* [Grasscutter-全版本客户端集成](https://github.com/kyou-nase/GI-Download-Library)
+* [Grasscutter-全版本客户端集成](https://github.com/Angoks/GI-Download-Library)
 
 
 ## 代理软件&启动器
@@ -35,6 +35,8 @@
 * [YuukiPS-Launcher](https://github.com/akbaryahya/YuukiPS-Launcher)
 
 ## 其他文件
+* [Live data (hot patches) downloader(热更新)](https://github.com/BiosNod/Live-data-downloader)
+* [mhypbase(客户端补丁)](https://github.com/Jx2f/mhypbase)
 * [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md)
 * [Akebi-GC-发布地址](https://github.com/Taiga74164/Akebi-GC/releases)
 * [All传送文件-配合Akebi的teleport功能使用](https://github.com/Lost-Season/Genshin_Impact_Teleport)

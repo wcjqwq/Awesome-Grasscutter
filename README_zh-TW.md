@@ -136,6 +136,14 @@
     </tr>
     </tr>
     <tr>
+        <td align="center"><a href="https://github.com/BiosNod/Live-data-downloader">Live data (hot patches) downloader</a></td>
+        <td align="center">热更新下载器</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Jx2f/mhypbase">mhypbase</a></td>
+        <td align="center">适用于客户端的补丁</td>
+    </tr>
+    <tr>
         <td align="center"><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
         <td align="center">一款可以讓你在提瓦特翱翔的魔法（已經DMCA了）</td>
     </tr>

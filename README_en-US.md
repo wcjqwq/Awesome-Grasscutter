@@ -137,6 +137,14 @@
     </tr>
     </tr>
     <tr>
+        <td align="center"><a href="https://github.com/BiosNod/Live-data-downloader">Live data (hot patches) downloader</a></td >
+        <td align="center">Hot Update Downloader</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Jx2f/mhypbase">mhypbase</a></td >
+        <td align="center">Patches for clients</td>
+    </tr>
+    <tr>
         <td align="center"><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_en-Hans.md">Akebi-GC</a></td >
         <td align="center">A magic that lets you soar in Tivat (DMCA already)</td>
     </tr>
